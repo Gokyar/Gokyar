@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali İhsan
+- 👋 Hi, I’m Ali İhsan.
 - 👀 I’m interested in software.
 - 🌱 I’m currently studying computer engineering.
 
