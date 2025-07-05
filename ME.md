@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali İhsan.
-- 👀 I’m interested in software.
-- 🌱 I’m currently studying computer engineering.
+- 👀 A software enthusiast.
+- 🌱 Currently a computer engineering student.
 
 <!---
 Gokyar/Gokyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
